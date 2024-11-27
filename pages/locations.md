@@ -7,6 +7,7 @@ permalink: /locations.html
 # a cloud visualization will be added below the content in this file
 cloud-fields: site.data.theme.locations-fields
 ---
+{% include feature/jumbotron.html objectid="map" %}
 
 ## Browse Locations
 
