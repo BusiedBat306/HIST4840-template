@@ -17,6 +17,10 @@ The creators would like to acknowledge assistance and support from:
 - The [Canadian Tank Museum](https://ontrmuseum.ca/tankmuseum/), home of the Ontario Regiment RCAC Museum.
 - Jeremy Neal Blowers, Executive Director, Canadian Tank Museum
 
+## Music
+
+My Boy Willie by The Royal Tank Regiment Cambrai Band. Used under permission of the Canadian Tank Museum as an affiliated member of the Canadian Armed Forces and those of the Commonwealth.
+
 ## References
 
 Cercel, Cristian, et al. “War in the Museum: The Historial of the Great War in Péronne and the Military History Museum in Dresden.” Journal of War and Culture Studies, vol. 12, no. 2, March 1, 2019. pp. 194–214. [Link](https://doi.org/10.1080/17526272.2019.1580846.)
