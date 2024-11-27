@@ -6,4 +6,6 @@ permalink: /browse.html
 # the Browse visualization will be added below the content in this file
 ---
 
+{% include feature/jumbotron.html objectid="bart" %}
+
 ## Browse Items
