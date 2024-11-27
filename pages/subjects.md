@@ -8,6 +8,8 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
+{% include feature/jumbotron.html objectid="map" %}
+
 ## Browse Subjects
 
 Use this word cloud visualization to browse terms and subjects.
