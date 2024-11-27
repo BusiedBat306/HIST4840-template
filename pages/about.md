@@ -15,6 +15,7 @@ credits: false
 The creators would like to acknowledge assistance and support from:
 
 - The [Canadian Tank Museum](https://ontrmuseum.ca/tankmuseum/), home of the Ontario Regiment RCAC Museum.
+- Jeremy Neal Blowers, Executive Director, Canadian Tank Museum
 
 ## References
 
