@@ -16,7 +16,7 @@ credits: false
 
 The creators would like to acknowledge assistance and support from:
 
-- The [Canadian Tank Museum, Home of the Ontario Regiment RCAC Museum](https://ontrmuseum.ca/tankmuseum/)
+- The [Canadian Tank Museum](https://ontrmuseum.ca/tankmuseum/), home of the Ontario Regiment RCAC Museum.
 
 ## References
 
