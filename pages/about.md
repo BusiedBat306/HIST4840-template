@@ -16,7 +16,7 @@ credits: false
 
 The creators would like to acknowledge assistance and support from:
 
-- The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
+- The [Canadian Tank Museum, Home of the Ontario Regiment RCAC Museum](https://ontrmuseum.ca/tankmuseum/)
 
 ## References
 
