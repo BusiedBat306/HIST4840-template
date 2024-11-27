@@ -19,7 +19,7 @@ The creators would like to acknowledge assistance and support from:
 
 ## Music
 
-My Boy Willie by The Royal Tank Regiment Cambrai Band. Used under permission of the Canadian Tank Museum as an affiliated member of the Canadian Armed Forces and those of the Commonwealth.
+Mounted march of the Ontario Regiment RCAC "My Boy Willie" by The Royal Tank Regiment Cambrai Band. Used under permission of the Canadian Tank Museum as an affiliated member of the Canadian Armed Forces and those of the Commonwealth.
 
 ## References
 
